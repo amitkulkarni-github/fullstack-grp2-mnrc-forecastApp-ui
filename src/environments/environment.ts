@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  apiEndpoint: 'https://mnrc.herokuapp.com'
+  apiEndpoint: 'http://localhost:8080'
 };
 
 /*
